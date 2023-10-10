@@ -33,5 +33,3 @@ BSc in Computer Science @ North American University
 
 
 <a href="https://github.com/aliiarustamova"><img src="https://github-readme-stats.vercel.app/api?username=aliiarustamova&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="AliiaRustamova's GitHub stats" /></a>
-
-<a href="https://github.com/aliiarustamova" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiarustamova&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>
